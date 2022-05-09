@@ -1,0 +1,16 @@
+.orologio{
+  background-color:#FBEAFF;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.orologio  span{
+  background-color:#845EC2;
+  padding: 7px 10px;
+  border-radius: 10px;
+  font-size: 35px;
+  font-weight: 800;
+  color: #FBEAFF;
+}
